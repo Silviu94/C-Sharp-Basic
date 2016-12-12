@@ -13,6 +13,8 @@ namespace ClassesTutorial
             Mercedes mercedes = new Mercedes();
             //AbstractCar aCar = new AbstractCar();
             EngineStruct engine = new EngineStruct();
+            Icar car = new Mercedes();
+            AbstractCar car2 = new Mercedes();
             Console.WriteLine("This is my first c# project!");
             Console.ReadKey();
         }
