@@ -1,0 +1,6 @@
+F:\GIT\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe.config
+F:\GIT\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.exe
+F:\GIT\ClassesTutorial\ClassesTutorial\bin\Debug\ClassesTutorial.pdb
+F:\GIT\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.csprojResolveAssemblyReference.cache
+F:\GIT\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.exe
+F:\GIT\ClassesTutorial\ClassesTutorial\obj\Debug\ClassesTutorial.pdb
