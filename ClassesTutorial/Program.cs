@@ -21,7 +21,9 @@ namespace ClassesTutorial
             Icar car = new Mercedes();
             AbstractCar car2 = new Mercedes();
             mercedes.StartEngine();
-            mercedes.ShowRemainingNoOfKm(50,6.5);
+            //mercedes.ShowRemainingNoOfKm(50,6.5);
+            double result = mercedes.ShowRemainingNoOfKm(10,5.2);
+            Console.WriteLine(result);
             Console.WriteLine("This is my first c# project!");
             Console.ReadKey();
         }
