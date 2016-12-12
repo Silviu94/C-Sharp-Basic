@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ClassesTutorial
 {
-   public class Mercedes
+    public abstract class AbstractCar
     {
+
     }
 }

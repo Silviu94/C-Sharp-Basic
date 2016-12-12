@@ -10,7 +10,7 @@ namespace ClassesTutorial
     {
         static void Main(string[] args)
         {
-
+            Mercedes mercedes = new Mercedes();
             Console.WriteLine("This is my first c# project!");
             Console.ReadKey();
         }
