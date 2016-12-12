@@ -10,6 +10,8 @@ namespace ClassesTutorial
     {
         public string Description;
         public int Price;
+        private string _description;
+        private int _price;
         public Mercedes()
         {
             Description = "E Class";
