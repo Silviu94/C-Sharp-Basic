@@ -24,6 +24,12 @@ namespace ClassesTutorial
             Console.WriteLine("Engine started");
 
         }
+        public void ShowRemainingNoOfKm(int noOfFuelLiters,double Consumption)
+        {
+            Console.WriteLine("Remaining KM " + noOfFuelLiters / Consumption * 100);
+
+
+        }
          
          
       
