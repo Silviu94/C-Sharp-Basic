@@ -30,7 +30,11 @@ namespace ClassesTutorial
 
             return noOfFuelLiters / Consumption * 100;
         }
-         
+         public int StarEngine(int milsec)
+        {
+            return milsec;
+            
+        }
          
       
     }
