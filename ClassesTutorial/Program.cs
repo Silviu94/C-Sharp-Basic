@@ -8,9 +8,14 @@ namespace ClassesTutorial
 {
     class Program
     {
+        public static object mercedes { get; private set; }
+
         static void Main(string[] args)
         {
+            
             Mercedes mercedes = new Mercedes();
+            Console.WriteLine("Mercedes is " +  mercedes.Description);
+            Console.WriteLine("Mercedes costs " +  mercedes.Price);
             //AbstractCar aCar = new AbstractCar();
             EngineStruct engine = new EngineStruct();
             Icar car = new Mercedes();
