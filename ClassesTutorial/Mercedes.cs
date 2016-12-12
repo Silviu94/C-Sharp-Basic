@@ -35,7 +35,13 @@ namespace ClassesTutorial
             return milsec;
             
         }
-         
+         public double CalculateConsumption(params int[] kms )
+        {
+            double sum = 0;
+            foreach (int km in kms)
+                sum = +km;
+            return sum / 100 * 7;
+        }
       
     }
 }

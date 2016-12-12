@@ -25,6 +25,8 @@ namespace ClassesTutorial
             double result = mercedes.ShowRemainingNoOfKm(10,5.2);
             Console.WriteLine(result);
             int result2 = mercedes.StarEngine(15);
+            double res3 = mercedes.CalculateConsumption(2, 30);
+            Console.WriteLine("Consumption is {0}", res3);
             Console.WriteLine("The car is starting in {0}", result2);
             Console.WriteLine("This is my first c# project!");
             Console.ReadKey();
