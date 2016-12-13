@@ -44,9 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractCar.cs" />
+    <Compile Include="Apple.cs" />
     <Compile Include="EngineStruct.cs" />
+    <Compile Include="fruit.cs" />
     <Compile Include="Icar.cs" />
     <Compile Include="Mercedes.cs" />
+    <Compile Include="Orange.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
